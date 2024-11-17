@@ -26,7 +26,7 @@ driver_chrome = webdriver.Chrome(
 driver_chrome.get(base_url)
 driver_chrome.maximize_window()
 
-# текс для ввода
+# текст для ввода
 test_text = "Test text."
 
 # переключение на iFrame
